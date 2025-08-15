@@ -1,1 +1,1 @@
-Cinfiguracion de identidad, nombre y mail
+Estos comandos se realizan en esta rama para de esa manera aislar cualquier error que pueda ocurrir y permite el trabajo en simultaneo con otras personas, asi como tambien facilita los PR
