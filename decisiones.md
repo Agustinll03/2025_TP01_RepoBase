@@ -13,3 +13,7 @@
 - Elegí *merge* de main → feat/mi-funcionalidad para traer todo el historial y minimizar conflictos futuros.
 - Alternativa considerada: cherry-pick del commit del fix; descarté para no fragmentar historial.
 
+## Flujo de PR
+- Se usó Squash & Merge para un historial lineal en main.
+- Mensajes de commit siguen Conventional Commits.
+
